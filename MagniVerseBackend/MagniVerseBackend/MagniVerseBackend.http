@@ -1,0 +1,6 @@
+@MagniVerseBackend_HostAddress = http://localhost:5171
+
+GET {{MagniVerseBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
